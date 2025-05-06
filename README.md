@@ -4,7 +4,8 @@
 
 Welcome to **AnimeHub**, your ultimate destination for anime enthusiasts! Dive deep into curated profiles of iconic characters from the Naruto universe, including Naruto Uzumaki, Itachi Uchiha, and Obito Uchiha. Whether you're a seasoned fan or new to the anime world, AnimeHub offers insightful information and captivating visuals to enhance your experience.
 
-![AnimeHub Banner](https://learning-phase.vercel.app/banner-image.jpg) <!-- Replace with an actual banner image URL if available -->
+![AnimeHub Banner]([https://learning-phase.vercel.app/banner-image.jpg](https://learning-phase.vercel.app/assets/images/logo.png)![Uploading logo.png…]()
+) <!-- Replace with an actual banner image URL if available -->
 
 ## 🌐 Live Demo
 
@@ -40,27 +41,7 @@ For detailed steps, refer to Vercel's official documentation: [Deploying Next.js
 
 Contributions are welcome! If you'd like to enhance the project:
 
-1. **Fork the repository.**
-
-2. **Create a new branch:**
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit your changes:**
-
-   ```bash
-   git commit -m 'Add YourFeature'
-   ```
-
-4. **Push to the branch:**
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a pull request.**
+ **Open a pull request.**
 
 ## 📄 License
 
