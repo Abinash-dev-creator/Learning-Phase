@@ -16,38 +16,15 @@ Explore the live website here: [https://learning-phase.vercel.app](https://learn
 * **Responsive Design**: Seamless experience across devices.
 * **Optimized Performance**: Fast loading times for uninterrupted browsing.
 
-## 🛠️ Technologies Used
-
-* **Frontend**: [Next.js](https://nextjs.org/) – A React framework for production.
-* **Styling**: [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework.
-* **Deployment**: [Vercel](https://vercel.com/) – Hosting and serverless functions.
-
-
 ## 🧑‍💻 Getting Started
 
 To run this project locally:
 
-1. **Clone the repository:**
+   **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/animehub.git
-   cd animehub
    ```
-
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server:**
-
-   ```bash
-   npm run dev
-   ```
-
-   Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 ## 📦 Deployment
 
 This project is deployed on [Vercel](https://vercel.com/). To deploy your own version:
